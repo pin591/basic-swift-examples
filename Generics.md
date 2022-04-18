@@ -36,6 +36,9 @@ func addDoubles(x: Double, y: Double) -> Double {
 ```
 let doubleSum = addDoubles(x: 1.0, y: 2.0)
 
+
+The function signatures of addInts and addDoubles are different, but the function bodies are identical. Do you have two functions, but the code inside them is repeated. Generics can be used to reduce these two functions to one and remove the redundant code.
+
 ## How to write generic data structures
 
 ## How to use type constraints.
