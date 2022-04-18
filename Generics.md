@@ -8,7 +8,7 @@ It allows you to write a function once and use it on different types.
 Allowing for elegant abstractions that produce cleaner code with fewer bugs. 
 
 You’ll find generics in use throughout Swift, which makes understanding them essential to a complete mastery of the language.
-A hight average of the standard swift libraries are write with generic code (Array, Dictionary, Optional...) You can have an array or an optional for example of any data type you want, even those types you create yoursel. In other words, the Optional data type is generic over the type of value it might contain.
+A hight average of the standard swift libraries are write with generic code (Array, Dictionary, Optional, Results...) You can have an array or an optional for example of any data type you want, even those types you create yoursel. In other words, the Optional data type is generic over the type of value it might contain.
 
 the Optional data type is generic over the type of value it might contain.
 
