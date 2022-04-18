@@ -1,7 +1,7 @@
 # basic-swift-examples
 Summary with the basics of Apple's Swift programming language
 
-Los conceptos tratados aparecen a continuación: 
+Find listed the diferent topics treated
 
-1. Funciones
+1. Funtions
 2. [Generics](Generics.md)
