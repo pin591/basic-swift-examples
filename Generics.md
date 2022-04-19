@@ -40,6 +40,18 @@ let doubleSum = addDoubles(x: 1.0, y: 2.0)
 The function signatures of addInts and addDoubles are different, but the function bodies are identical. Do you have two functions, but the code inside them is repeated. Generics can be used to reduce these two functions to one and remove the redundant code.
 Generics can be used to reduce these two functions to one and remove the redundant code.
 
+# Generic types
+
+### Array example
+
+```swift
+
+let numbers = [1, 2, 3]
+
+let firstNumber = numbers[0]
+
+```
+
 ## How to write generic data structures
 
 ## How to use type constraints.
