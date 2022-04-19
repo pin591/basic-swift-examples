@@ -2,9 +2,17 @@
 
 A protocol defines a set of methods, properties, and other requirements that suit a particular task or piece of functionality. with protocol we define a base.
 
+Group of related properties and methods that can be implemented by any class
+
 The protocol can then be followed by a class, structure, or enumeration to provide an actual implementation of those requirements.
 
 Any type that satisfies the requirements of a protocol is said to conform to that protocol.
+
+The protocols have Abstract methods with no default implementation
+
+Known in other languages as interfaces
+
+Independent of any class
 
 # Protocol Syntax
 
