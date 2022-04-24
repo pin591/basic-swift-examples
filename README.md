@@ -1,4 +1,4 @@
-# basic-swift-examples
+# swift-foundation
 Summary with the basics of Apple's Swift programming language
 
 Find listed the diferent topics treated
